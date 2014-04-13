@@ -1,11 +1,11 @@
 {
-    "name": "monk"
+    "name": "bleeding-monk"
   , "version": "0.8.1"
   , "main": "lib/monk.js"
   , "tags": ["mongodb", "mongo", "driver"]
-  , "repository": { "type": "git", "url": "git://github.com/LearnBoost/monk.git" }
+  , "repository": { "type": "git", "url": "git://github.com/diorahman/bleeding-monk.git" }
   , "dependencies": {
-        "mongoskin": "0.4.4"
+        "hemidrosis": "1.4.0"
       , "debug": "*"
       , "mpromise": "0.5.1"
     }
