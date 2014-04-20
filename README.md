@@ -1,8 +1,6 @@
 # bleeding-monk
 
-The bleeding monk
-
-Run to consume mongodb [2.6](http://docs.mongodb.org/manual/release-notes/2.6/), using mongodb [2.4.0](https://github.com/mongodb/node-mongodb-native) driver for node
+The bleeding monk. Use mongoskin [1.4.1](https://github.com/kissjs/node-mongoskin/commit/a7f0f75851c41fe27681e6702938410e64901f3c)
 
 Blood sweat of [monk](https://github.com/LearnBoost/monk)
 
