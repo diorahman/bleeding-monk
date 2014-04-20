@@ -1,6 +1,6 @@
 {
     "name": "bleeding-monk"
-  , "version": "0.0.4"
+  , "version": "0.0.5"
   , "main": "lib/monk.js"
   , "tags": ["mongodb", "mongo", "driver"]
   , "repository": { "type": "git", "url": "git://github.com/diorahman/bleeding-monk.git" }
